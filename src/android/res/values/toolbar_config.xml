@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_height">48dp</dimen>
+    <dimen name="text_size">16dp</dimen>
+    <color name="hover_color">#89ffffff</color>
+    <color name="text_color">#1776fc</color>
+    <color name="line_color">#ff6a00</color>
+    <string name="toolbar_text">Back in dutch :)</string>
+</resources>
